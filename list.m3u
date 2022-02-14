@@ -32,10 +32,12 @@ http://206.119.173.184/tv/js.php?id=15
 http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",RHK32
 http://206.119.173.184/tv/js.php?id=18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",nowSPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",nowSPORTS
 http://206.119.173.184/tv/js.php?id=19
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",now直播
 http://206.119.173.184/tv/js.php?id=20
+#EXTINF:-1 group-title="香港" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now新闻台
+http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",C+
 http://206.119.173.184/tv/js.php?id=21
 
@@ -79,7 +81,7 @@ http://220.135.55.74:8569/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 http://59.125.101.187:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="台灣",HBO HD
 http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台1",AXN电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",AXN电影
 http://59.125.101.187:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="台灣",Cinemax
 http://59.125.101.187:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
@@ -89,7 +91,7 @@ http://59.125.101.187:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 http://59.125.101.187:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",博斯运动II
 http://59.125.101.187:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台1",ELEVEN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",ELEVEN SPORTS 1
 http://59.125.101.187:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台灣",ELEVEN SPORTS 2
 http://59.125.101.187:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
