@@ -21,6 +21,8 @@ http://206.119.173.184/tv/js.php?id=13
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",TVB为食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="香港",TVB经典台
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
+https://api.leonardpark.dev/live/icable/109
 http://206.119.173.184/tv/js.php?id=11
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",VIU6
 http://206.119.173.184/tv/js.php?id=16
