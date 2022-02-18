@@ -68,9 +68,9 @@ http://59.125.101.187:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台灣",动物星球
 http://59.125.101.187:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣",东森新闻
-http://59.125.101.187:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",中天新闻
-http://59.125.101.187:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8 
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣",民视新闻
 http://59.125.101.187:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台灣",壹新闻台
@@ -80,7 +80,7 @@ http://59.125.101.187:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",中天新闻
 http://59.125.101.187:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台灣",寰宇新闻
-http://59.125.101.187:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
+http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8 
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="台灣",HBO HD
 http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",AXN电影
@@ -89,9 +89,9 @@ http://59.125.101.187:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 http://59.125.101.187:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="台灣",FOXmovies
 http://59.125.101.187:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",博斯运动I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",博斯运动I
 http://59.125.101.187:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",博斯运动II
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",博斯运动II
 http://59.125.101.187:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",ELEVEN SPORTS 1
 http://59.125.101.187:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
@@ -105,7 +105,6 @@ http://206.119.173.184/tv/js.php?id=126
 http://206.119.173.184/tv/js.php?id=127
 #EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台灣",亚洲旅游
 http://206.119.173.184/tv/js.php?id=128
-
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://111.11.121.184:6610/030000001001/guangdongstv/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视HD
