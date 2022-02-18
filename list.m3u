@@ -24,6 +24,12 @@ http://iptv.tvfix.org/hls/tvbws.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
 https://api.leonardpark.dev/live/icable/109
 http://206.119.173.184/tv/js.php?id=11
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png",有线体育台
+rtmp://59.124.75.157/sat/hk011
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有线18
+rtmp://59.124.75.157/sat/hk041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",VIU6
 http://206.119.173.184/tv/js.php?id=16
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",VIUTV
