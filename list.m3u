@@ -45,7 +45,7 @@ http://206.119.173.184/tv/js.php?id=20
 #EXTINF:-1 group-title="香港" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.168virtualschool.com/images/grade/C+.png" group-title="香港",C+
-http://206.119.173.184/tv/js.php?id=21
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 
 
 
@@ -61,6 +61,8 @@ rtmp://59.124.75.157/sat/tv111
 rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="體育",爱尔达体育2
 rtmp://59.124.75.157/sat/md031
+#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育3" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_9e4a755240362ee6d9b527a4219a85c8.png" group-title="體育",爱尔达体育3
+rtmp://59.124.75.157/sat/md021
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台灣",国家地理
 http://59.125.101.187:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="台灣",Discovery
@@ -90,7 +92,7 @@ http://59.125.101.187:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="台灣",FOXmovies
 http://59.125.101.187:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",博斯运动I
-http://59.125.101.187:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+rtmp://59.124.75.157/sat/md051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",博斯运动II
 rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",ELEVEN SPORTS 1
