@@ -44,7 +44,7 @@ http://206.119.173.184/tv/js.php?id=19
 http://206.119.173.184/tv/js.php?id=20
 #EXTINF:-1 group-title="香港" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.168virtualschool.com/images/grade/C+.png" tvg-logo=" group-title="香港",C+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.168virtualschool.com/images/grade/C+.png" group-title="香港",C+
 http://206.119.173.184/tv/js.php?id=21
 
 
