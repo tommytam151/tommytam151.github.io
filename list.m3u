@@ -34,9 +34,9 @@ rtmp://59.124.75.157/sat/hk041
 http://206.119.173.184/tv/js.php?id=16
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",VIUTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",RHK31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1024px-RTHK_TV_31.svg.png" group-title="香港",RHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",RHK32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.coolstreaming.us/img/ch/ima59209416155.jpg" group-title="香港",RHK32
 http://206.119.173.184/tv/js.php?id=18
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",nowSPORTS
 http://206.119.173.184/tv/js.php?id=19
@@ -44,7 +44,7 @@ http://206.119.173.184/tv/js.php?id=19
 http://206.119.173.184/tv/js.php?id=20
 #EXTINF:-1 group-title="香港" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",C+
+#EXTINF:-1 tvg-id="" tvg-name="http://www.168virtualschool.com/images/grade/C+.png" tvg-logo="" group-title="香港",C+
 http://206.119.173.184/tv/js.php?id=21
 
 
