@@ -28,6 +28,8 @@ http://206.119.173.184/tv/js.php?id=11
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 group-title="體育" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png",有线体育台
 rtmp://59.124.75.157/sat/hk011
+#EXTINF:-1 tvg-name="Sports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1e/Sports_Plus.png/220px-Sports_Plus.png" group-title="體育",Sports Plus
+rtmp://59.124.75.157/sat/hk021
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有线18
 rtmp://59.124.75.157/sat/hk041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",VIU6
@@ -167,4 +169,5 @@ rtmp://59.124.75.157/sat/tv571
 rtmp://59.124.75.157/sat/tv721
 #EXTINF:-1 tvg-name="Sports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1e/Sports_Plus.png/220px-Sports_Plus.png" group-title="體育",Sports Plus
 rtmp://59.124.75.157/sat/hk021
-
+#EXTINF:-1 tvg-name="中天新"
+mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
