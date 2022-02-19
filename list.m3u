@@ -141,9 +141,9 @@ http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="上海五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="體育",上海五星体育 (1080p)
 http://112.25.48.8/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="體育",SiTV劲爆体育 1080[1920*1080]
+#EXTINF:-1 tvg-name="SiTV劲爆体育 " tvg-logo="https://images.sports8.net/cimg/81.jpg" group-title="體育",SiTV劲爆体育 
 http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="體育",SiTV魅力足球 1080[1920*1080]
+#EXTINF:-1 tvg-name="SiTV魅力足球" tvg-logo="https://pic3.ntimg.cn/pic/20200325/26753533_223933443199_4.jpg" group-title="體育",SiTV魅力足球
 http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="體育",Star Sports[1024*576]
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
