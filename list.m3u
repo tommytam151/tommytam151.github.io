@@ -40,7 +40,7 @@ http://iptv.tvfix.org/hls/rthk31.m3u8
 http://206.119.173.184/tv/js.php?id=18
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",nowSPORTS
 http://206.119.173.184/tv/js.php?id=19
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zh.wikipedia.org/wiki/Now%E7%9B%B4%E6%92%AD%E5%8F%B0#/media/File:Now_Live_News_logo" group-title="香港",now直播
+#EXTINF:-1 tvg-id="" tvg-name="now直播" https://zh.wikipedia.org/wiki/Now%E7%9B%B4%E6%92%AD%E5%8F%B0#/media/File:Now_Live_News_logo.svg" group-title="香港",now直播
 http://206.119.173.184/tv/js.php?id=20
 #EXTINF:-1 group-title="香港" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
