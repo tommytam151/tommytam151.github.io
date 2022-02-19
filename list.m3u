@@ -91,7 +91,7 @@ http://59.125.101.187:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 http://59.125.101.187:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="台灣",FOXmovies
 http://59.125.101.187:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",博斯运动I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1845.png" group-title="體育",博斯运动I
 rtmp://59.124.75.157/sat/md051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",博斯运动II
 rtmp://59.124.75.157/sat/md011
