@@ -58,7 +58,7 @@ rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣",华视
 rtmp://59.124.75.157/sat/tv111
 #EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="體育",爱尔达体育1
-rtmp://59.124.75.157/sat/md031
+rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="體育",爱尔达体育2
 rtmp://59.124.75.157/sat/md031
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台灣",国家地理
@@ -123,7 +123,7 @@ http://111.11.121.184:6610/030000001001/dongfangstv/1.m3u8?channel-id=ystenlive
 http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv1/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="體育",CCTV5+HD
 http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv05plus/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 group-title="體育",CCTV-5体育
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="體育",CCTV-5体育
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9FHD
 http://111.11.121.184:6610/030000001001/cctv-news/1.m3u8?channel-id=ystenlive
