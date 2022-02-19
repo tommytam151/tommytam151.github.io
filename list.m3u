@@ -69,7 +69,7 @@ http://59.125.101.187:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 http://59.125.101.187:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣",东森新闻
 http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="台灣",中天新闻
 http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8 
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣",民视新闻
 http://59.125.101.187:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
