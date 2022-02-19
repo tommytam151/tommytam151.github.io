@@ -97,10 +97,6 @@ http://59.125.101.187:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 rtmp://59.124.75.157/sat/md051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",博斯运动II
 rtmp://59.124.75.157/sat/md011
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",ELEVEN SPORTS 1
-http://59.125.101.187:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台灣",ELEVEN SPORTS 2
-http://59.125.101.187:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台灣",中天综合
 http://206.119.173.184/tv/js.php?id=25
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",探索亚洲
@@ -159,11 +155,11 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="7150" tvg-name="ELEVEN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="體育",ELEVEN1
 rtmp://59.124.75.157/sat/tv731
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN2" tvg-logo="https://www.nicepng.com/png/detail/140-1402045_eleven-sports-eleven-sports-2-logo.png" group-title="體育",ELEVEN2
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="體育",ELEVEN2
 rtmp://59.124.75.157/sat/tv741
 #EXTINF:-1 tvg-name="緯來日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台灣",緯來日本
 rtmp://59.124.75.157/sat/tv771
-#EXTINF:-1 ,tvg-id="6080" tvg-name="東森財經新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台灣"東森財經新聞
+#EXTINF:-1 ,tvg-id="6080" tvg-name="東森財經新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台灣",東森財經新聞
 rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 tvg-name="緯來體育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="體育",緯來體育
 rtmp://59.124.75.157/sat/tv721
