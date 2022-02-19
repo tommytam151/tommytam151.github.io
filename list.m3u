@@ -166,11 +166,11 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 rtmp://59.124.75.157/sat/tv731
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN2" tvg-logo="https://www.nicepng.com/png/detail/140-1402045_eleven-sports-eleven-sports-2-logo.png" group-title="體育",ELEVEN2
 rtmp://59.124.75.157/sat/tv741
-#EXTINF:-1,纬来日本
+#EXTINF:-1 tvg-name="緯來日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="體育",緯來日本
 rtmp://59.124.75.157/sat/tv771
 #EXTINF:-1,东森财经新闻
 rtmp://59.124.75.157/sat/tv571
-#EXTINF:-1,纬来体育
+#EXTINF:-1 tvg-name="緯來體育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="體育",緯來體育
 rtmp://59.124.75.157/sat/tv721
 #EXTINF:-1,Sports Plus
 rtmp://59.124.75.157/sat/hk021
