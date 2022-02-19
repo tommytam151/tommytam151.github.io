@@ -162,9 +162,9 @@ http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="體育",Астрахань Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="體育",ELEVEN1
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="體育",ELEVEN1
 rtmp://59.124.75.157/sat/tv731
-#EXTINF:-1 group-title="體育",ELEVEN2
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN2" tvg-logo="https://www.nicepng.com/png/detail/140-1402045_eleven-sports-eleven-sports-2-logo.png" group-title="體育",ELEVEN2
 rtmp://59.124.75.157/sat/tv741
 #EXTINF:-1,纬来日本
 rtmp://59.124.75.157/sat/tv771
@@ -172,8 +172,6 @@ rtmp://59.124.75.157/sat/tv771
 rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1,纬来体育
 rtmp://59.124.75.157/sat/tv721
-#EXTINF:-1,纬来育乐
-rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1,Sports Plus
 rtmp://59.124.75.157/sat/hk021
 
