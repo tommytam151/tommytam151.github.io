@@ -95,7 +95,7 @@ http://59.125.101.187:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
 http://59.125.101.187:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 #EXTINF:-1 tvg-id="7177" tvg-logo="http://www.nettv.live/uploads/20/1-200323215544608.jpg" group-title="台灣", 寰宇新聞台灣台
 http://sl.tmtv.me/20201226/ubtl.php?cid=87
-#EXTINF:-1 tvg-id="6171" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PF21500270-L.jpg" group-title="台灣", 寰宇新聞台
+#EXTINF:-1 tvg-id="6171" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台灣", 寰宇新聞台
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="台灣",HBO HD
 http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
