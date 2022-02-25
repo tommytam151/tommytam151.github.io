@@ -32,7 +32,7 @@ http://206.119.173.184/tv/js.php?id=11
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有線18
 rtmp://59.124.75.157/sat/hk041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",VIU6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",VIU6
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",VIUTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
@@ -58,7 +58,12 @@ http://iptv.tvfix.org/hls/opentv.m3u8
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 group-title="香港"  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/60/Mei_Ah_Movies_Channel_logo.png",美亚电影台国语
 http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="台湾",民视综艺
+
+
+
+
+
+#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="台灣",民视综艺
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="6070" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣", 中天新聞 HD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
@@ -69,9 +74,9 @@ http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣",民视新闻
 http://50.7.61.148:30080/Entry/ftvnews
-#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台湾",TVBS欢乐台
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台灣",TVBS欢乐台
 rtmp://59.124.75.157/sat/tv421
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻台
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台灣 ",TVBS新闻台
 rtmp://59.124.75.157/sat/tv551
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台灣",壹新闻台
 http://59.125.101.187:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
@@ -181,11 +186,11 @@ rtmp://59.124.75.157/sat/md011
 #EXTINF:-1 tvg-id="6174" tvg-name="博斯运动II" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="台灣",博斯运动II
 rtmp://59.124.75.157/sat/md051
 #EXTINF:-1 tvg-id="1987" tvg-name="上海五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="體育",上海五星体育 (1080p)
-http://112.25.48.8/live/program/live/ssty/4000000/mnf.m3u8
+http://111.40.196.25/pltv/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-name="SiTV劲爆体育 " tvg-logo="https://images.sports8.net/cimg/81.jpg" group-title="體育",SiTV劲爆体育 
-http://112.25.48.68/live/program/live/jbtyhd/4000000/mnf.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-name="SiTV魅力足球" tvg-logo="https://pic3.ntimg.cn/pic/20200325/26753533_223933443199_4.jpg" group-title="體育",SiTV魅力足球
-http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="體育",Star Sports[1024*576]
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-name="NewTV超级体育FHD" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202004/28/081732embxam6xmzxxb6ax.png" group-title="體育",NewTV超级体育FHD
@@ -206,7 +211,7 @@ rtmp://59.124.75.157/sat/tv721
 rtmp://59.124.75.157/sat/hk011
 #EXTINF:-1 tvg-name="Sports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1e/Sports_Plus.png/220px-Sports_Plus.png" group-title="體育",有線Sports Plus
 rtmp://59.124.75.157/sat/hk021
-#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png"",Now Sports Prime
+#EXTINF:-1 group-title="香港" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="體育",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育台" tvg-logo="https://s.yimg.com/dg/images/04520e78-5eb0-4103-a3de-d402918c5f40/04520e78-5eb0-4103-a3de-d402918c5f40.png" group-title="體育" ,智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
