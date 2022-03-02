@@ -86,7 +86,7 @@ http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 http://sl.tmtv.me/20201226/ubtl.php?cid=87
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台灣", 寰宇新聞台
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",好消息
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",好消息
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 , tvg-name="亞洲新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="台灣",亞洲新聞
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -108,9 +108,8 @@ http://59.125.101.187:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
 http://59.125.101.187:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台灣",动物星球
 http://59.125.101.187:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
-
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="台灣",HBO HD
-http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",AXN电影
 http://59.125.101.187:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="台灣",Cinemax
@@ -123,7 +122,6 @@ http://206.119.173.184/tv/js.php?id=126
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台灣",亚洲旅游
 http://206.119.173.184/tv/js.php?id=128
-
 #EXTINF:-1 , tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台灣",HBO
 http://50.7.61.148:30080/Entry/hbo
 #EXTINF:-1 , tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="台灣",AXN
@@ -181,10 +179,8 @@ rtmp://59.124.75.157/sat/md051
 rtmp://59.124.75.157/sat/md021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1845.png" group-title="體育",博斯运动I
 rtmp://59.124.75.157/sat/md051
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",博斯运动II
-rtmp://59.124.75.157/sat/md011
-#EXTINF:-1 tvg-id="6174" tvg-name="博斯运动II" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="台灣",博斯运动II
-rtmp://59.124.75.157/sat/md051
+#EXTINF:-1 tvg-id="6174" tvg-name="博斯运动II" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="體育",博斯运动II
+http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="上海五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="體育",上海五星体育 (1080p)
 http://111.40.196.25/pltv/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-name="SiTV劲爆体育 " tvg-logo="https://images.sports8.net/cimg/81.jpg" group-title="體育",SiTV劲爆体育 
@@ -211,8 +207,10 @@ rtmp://59.124.75.157/sat/tv721
 rtmp://59.124.75.157/sat/hk011
 #EXTINF:-1 tvg-name="Sports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1e/Sports_Plus.png/220px-Sports_Plus.png" group-title="體育",有線Sports Plus
 rtmp://59.124.75.157/sat/hk021
-#EXTINF:-1 group-title="香港" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="體育",Now Sports Prime
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="體育",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="體育",四海钓鱼
+http://117.148.179.159/PLTV/88888888/224/3221231718/1.m3u8
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育台" tvg-logo="https://s.yimg.com/dg/images/04520e78-5eb0-4103-a3de-d402918c5f40/04520e78-5eb0-4103-a3de-d402918c5f40.png" group-title="體育" ,智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
