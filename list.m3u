@@ -223,9 +223,9 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN NEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="國際頻道",CNN NEWS
 https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://commons.wikimedia.org/wiki/File:Fox_News_Channel_logo.png" group-title="國際頻道",FOX NEWS
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="國際頻道",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="" group-title="國際頻道",CNA
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/11/channel-news-asia-cna-logo-vector.png" group-title="國際頻道",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/ABC_%282013%29_Gold.svg/300px-ABC_%282013%29_Gold.svg.png" group-title="國際頻道",ABC NEWS
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
