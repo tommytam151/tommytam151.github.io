@@ -26,7 +26,7 @@ http://iptv.tvfix.org/hls/tvbjd.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠华丽台
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港" ,有線新闻台
-https://api.leonardpark.dev/live/icable/109
+rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
 http://206.119.173.184/tv/js.php?id=11
 #EXTINF:-1 tvg-id="7119" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有線财经资讯台
 https://api.leonardpark.dev/live/icable/108
@@ -104,10 +104,13 @@ rtmp://59.124.75.157/sat/tv111
 http://206.119.173.184/tv/js.php?id=25
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台灣",国家地理
 http://59.125.101.187:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="台灣",国家地理野生频道
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="台灣",Discovery
-http://59.125.101.187:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+http://live.scuec.edu.cn:8080/hls/discovery.m3u8#http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台灣",动物星球
-http://59.125.101.187:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
+http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="台灣",HBO HD
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",AXN电影
@@ -143,8 +146,7 @@ http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000007410&li
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视HD
 http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000031556&livemode=1&channel-id=bestzb&stbId=10
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://111.11.121.184:6610/030000001001/dongfangstv/1.m3u8?channel-id=ystenlive
-
+http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1HD
@@ -213,5 +215,25 @@ http://livetv.dnsfor.me/channel.12.m3u8
 http://117.148.179.159/PLTV/88888888/224/3221231718/1.m3u8
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育台" tvg-logo="https://s.yimg.com/dg/images/04520e78-5eb0-4103-a3de-d402918c5f40/04520e78-5eb0-4103-a3de-d402918c5f40.png" group-title="體育" ,智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="红牛运动" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/51/New_York_Red_Bulls_logo.svg/1200px-New_York_Red_Bulls_logo.svg.png" group-title="體育",红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+
+#EXTINF:-1 tvg-id="331" tvg-name="NHK WORLD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="國際頻道",NHK WORLD
+https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN NEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="國際頻道",CNN NEWS
+https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://commons.wikimedia.org/wiki/File:Fox_News_Channel_logo.png" group-title="國際頻道",FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="" group-title="國際頻道",CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/ABC_%282013%29_Gold.svg/300px-ABC_%282013%29_Gold.svg.png" group-title="國際頻道",ABC NEWS
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="法国24新闻" tvg-logo="https://www.lmtw.com/dvb/UploadFiles_3672//201402/2014021410325364.jpg" group-title="國際頻道",法国24新闻
+http://f24hls-i.akamaihd.net:80/hls/live/221147/F24_EN_HI_HLS/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澎博财经" tvg-logo="https://www.mg21.com/wp-content/uploads/2016/05/Bloomberg-logo.png" group-title="國際頻道",澎博财经
+https://liveprodeuwest.akamaized.net:443/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+
 
 
