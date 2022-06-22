@@ -16,9 +16,9 @@ https://cdn.hkdtmb.com/hls/84b/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",J2
 https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8#isVideo=true#
 #EXTINF:-1 tvg-id="130" tvg-name="無線新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" group-title="香港",無線新聞
-http://cdn.hkdtmb.com/hls/83/index.m3u8
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="無線財經" tvg-logo="https://tw.fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg" group-title="香港",無線財經
-http://cdn.hkdtmb.com/hls/85/index.m3u8
+http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB為食台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/TVB_Food.png" group-title="香港",TVB為食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="TVB經典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="香港",TVB經典台
@@ -26,13 +26,13 @@ http://iptv.tvfix.org/hls/tvbjd.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠华丽台
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港" ,有線新闻台
-rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
+https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="7119" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有線财经资讯台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有線18
 rtmp://59.124.75.157/sat/hk041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",VIU6
-https://cdn.hkdtmb.com/hls/96/index.m3u8
+http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",VIUTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1024px-RTHK_TV_31.svg.png" group-title="香港",RHK31
@@ -67,7 +67,7 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="6070" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣", 中天新聞 HD
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣",東森新闻
-http://50.7.218.42:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台灣",東森財經新聞
 rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣",民视新闻
@@ -100,21 +100,21 @@ http://50.7.61.148:30080/Entry/ctv
 rtmp://59.124.75.157/sat/tv111
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台灣",中天综合
 http://206.119.173.184/tv/js.php?id=25
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台灣",国家地理
-http://iptv.tvfix.org/hls/natlgeo_v.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台灣",国家地理频道
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="台灣",国家地理野生频道
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="台灣",Discovery
-http://live.scuec.edu.cn:8080/hls/discovery.m3u8#http://iptv.tvfix.org/hls/discovery.m3u8
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台灣",动物星球
-http://iptv.tvfix.org/hls/animal_v.m3u8
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="台灣",HBO HD
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="台灣",AXN电影
 http://59.125.101.187:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="台灣",Cinemax
-http://59.125.101.187:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="台灣",FOXmovies
 http://59.125.101.187:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",探索亚洲
@@ -163,9 +163,9 @@ http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="體育",CCTV-5体育 
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="體育",CCTV5+HD
-http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000020505&livemode=1&stbId=2&channel-id=ystenlive
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="體育",CCTV-风云足球
 http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="澳門體育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TDMSport.png/440px-TDMSport.png" group-title="體育",澳門體育
@@ -185,7 +185,7 @@ http://111.40.196.25/pltv/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="SiTV劲爆体育 " tvg-logo="https://images.sports8.net/cimg/81.jpg" group-title="體育",SiTV劲爆体育 
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="SiTV魅力足球" tvg-logo="https://pic3.ntimg.cn/pic/20200325/26753533_223933443199_4.jpg" group-title="體育",SiTV魅力足球
-http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="體育",Star Sports[1024*576]
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-name="NewTV超级体育FHD" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202004/28/081732embxam6xmzxxb6ax.png" group-title="體育",NewTV超级体育FHD
