@@ -16,9 +16,9 @@ https://cdn.hkdtmb.com/hls/84b/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",J2
 https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8#isVideo=true#
 #EXTINF:-1 tvg-id="130" tvg-name="無線新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" group-title="香港",無線新聞
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+http://live.cooltv.top/tv/tvb.php?id=1
 #EXTINF:-1 tvg-id="133" tvg-name="無線財經" tvg-logo="https://tw.fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg" group-title="香港",無線財經
-http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="TVB為食台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/TVB_Food.png" group-title="香港",TVB為食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="TVB經典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="香港",TVB經典台
@@ -26,9 +26,9 @@ http://iptv.tvfix.org/hls/tvbjd.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠华丽台
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港" ,有線新闻台
-https://api.leonardpark.dev/live/icable/109
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="7119" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有線财经资讯台
-https://api.leonardpark.dev/live/icable/108
+https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有線18
 rtmp://59.124.75.157/sat/hk041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",VIU6
