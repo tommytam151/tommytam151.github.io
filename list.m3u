@@ -67,7 +67,7 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="6070" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣", 中天新聞 HD
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣",東森新闻
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+http://59.125.101.187:10702/playlist.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台灣",東森財經新聞
 rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣",民视新闻
@@ -75,7 +75,7 @@ http://50.7.61.148:30080/Entry/ftvnews
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台灣",TVBS欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台灣 ",TVBS新闻台
-rtmp://59.124.75.157/sat/tv551
+rtmp://59.124.75.150/sat/tv551
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台灣",壹新闻台
 http://59.125.101.187:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣",民视新闻
